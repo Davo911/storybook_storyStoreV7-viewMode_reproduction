@@ -1,4 +1,6 @@
 # vue3
+Reproduction Code to show, that `viewMode: "docs"` wont work together with `storyStoreV7`.
+Changes were made @ main.js and preview.js
 
 ## Project setup
 ```
